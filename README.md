@@ -1,7 +1,11 @@
-## Hi there 👋
+## Hi, I'm Juan Pablo 👋
+I'm a Mechatronics Engineer passionate about building projects.
 
+
+
+- Languages: C++, Java, C, MATLAB
+- Tools: Git, Docker, VS Code, Intellij
 <!--
-**Fellbowl/Fellbowl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
