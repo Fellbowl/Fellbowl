@@ -1,7 +1,10 @@
 ## Hi, I'm Juan Pablo 👋
 I'm a Mechatronics Engineer passionate about building projects.
 
-
+- 🔭 I’m currently working on a project using ESP32 and C
+- 🌱 I’m learning Finite State Machines
+- 💬 Ask me about Java, MATLAB, or Dynamic Systems
+- 📫 How to reach me: [juanp-arenas@javeriana.edu.co]
 
 - Languages: C++, Java, C, MATLAB
 - Tools: Git, Docker, VS Code, Intellij
