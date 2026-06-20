@@ -59,10 +59,16 @@ watchdog timeout at 2 a.m. and writing a formal technical report.
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Soplón — IoT cycling helmet](https://github.com/Fellbowl/soplon)** | End-to-end IoT pipeline, sensor to real-time dashboard | Raspberry Pi · MQTT/TLS · Flask · Supabase · React |
-| **[Astrophotography autofocus](https://github.com/Fellbowl/autofocus)** *(thesis)* | Closed-loop focus that holds sharpness against thermal drift | ESP32 · TMC2209 · HFR/FWHM · ASCOM |
-| **[5-bar parallel robot](https://github.com/Fellbowl/5bar-robot)** | Real-time motion control with smooth trajectory tracking | ESP-IDF · FreeRTOS · analytic IK · MATLAB |
-| **[Digital PID — BLDC motor](https://github.com/Fellbowl/pid-bldc)** | Precise closed-loop position on a bare-metal MCU + custom PCB | PIC18F · digital PID · Simulink |
+| **[Soplón — IoT cycling helmet](https://github.com/Fellbowl/IoT-Soplon)** | End-to-end IoT pipeline, sensor to real-time dashboard | Raspberry Pi · MQTT/TLS · Flask · Supabase · React |
+| **[Rotational actuator — Digital PID](https://github.com/Fellbowl/Actuador-Rotacional)** | Closed-loop position control on a bare-metal MCU + custom PCB | PIC18F · digital PID · FSM firmware · Simulink |
+| **[Linear actuator — G-code stepper](https://github.com/Fellbowl/Linear-actuator)** | G-code command layer for a stepper-driven linear axis | PIC16F · UART ISR · G-code parser |
+| **[3D Scanner](https://github.com/Elsanty2703/Scaner-3D)** | 3D scanning system *(collaborative project)* | Embedded · sensing |
+
+### 📦 More repositories
+
+- **[ESP32-MQTT](https://github.com/Fellbowl/ESP32-MQTT)** — ESP32 telemetry over MQTT
+- **[ESC](https://github.com/Fellbowl/ESC)** — electronic speed controller work
+- **[ESPNOW-LED-test](https://github.com/Fellbowl/ESPNOW-LED-test)** — ESP-NOW wireless LED control experiment
 
 ---
 
