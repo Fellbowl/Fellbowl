@@ -83,5 +83,5 @@ watchdog timeout at 2 a.m. and writing a formal technical report.
 
 ### 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-arenas-vargas)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=mail&logoColor=white)](mailto:juanp-arenas@javeriana.edu.co)
