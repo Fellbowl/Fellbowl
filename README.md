@@ -69,6 +69,7 @@ watchdog timeout at 2 a.m. and writing a formal technical report.
 - **[ESP32-MQTT](https://github.com/Fellbowl/ESP32-MQTT)** — ESP32 telemetry over MQTT
 - **[ESC](https://github.com/Fellbowl/ESC)** — electronic speed controller work
 - **[ESPNOW-LED-test](https://github.com/Fellbowl/ESPNOW-LED-test)** — ESP-NOW wireless LED control experiment
+- **[ESP32-PARALLEL-ROBOT](https://github.com/Fellbowl/ESP32-PARALLEL-ROBOT)** — Parallel robot control with an ESP32
 
 ---
 
